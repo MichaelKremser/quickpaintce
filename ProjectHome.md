@@ -1,0 +1,1 @@
+This project is a Visual Studio 2008 solution for Windows® Pocket PC/Windows® CE platforms running .net Compact Framework 3.5 or better. The program (written in the C# programming language) can be used to make pictures containing objects - such as line, rectangle, ellipse - using a Pocket PC or Windows Mobile.
